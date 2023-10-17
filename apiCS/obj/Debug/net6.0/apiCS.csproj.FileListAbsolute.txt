@@ -1,0 +1,17 @@
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\apiCS.exe
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\apiCS.deps.json
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\apiCS.runtimeconfig.json
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\apiCS.dll
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\apiCS.pdb
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.AssemblyInfoInputs.cache
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.AssemblyInfo.cs
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.csproj.CoreCompileInputs.cache
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.dll
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\refint\apiCS.dll
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.pdb
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.genruntimeconfig.cache
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\ref\apiCS.dll
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.csproj.AssemblyReference.cache
+C:\Users\sumio\OneDrive\Escritorio\Unikino\UK-ProgramacionAvanzada\PrograAvanzada\apiCS\obj\Debug\net6.0\apiCS.csproj.CopyComplete
